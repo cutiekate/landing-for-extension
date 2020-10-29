@@ -1,0 +1,348 @@
+@media screen and (max-width: 1024px) {
+    .header__info {
+        padding-top: 145px;
+        padding-bottom: 145px;
+    }
+
+    .header__info h1 {
+        font-size: 45px;
+    }
+    .section-4__img {
+        width: 100%;
+        height: auto;
+    }
+
+    .section-4__col-1 {
+        min-width: 100%;
+        margin-bottom: 20px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .section-4__col-3 {
+        min-width: 60%;
+    }
+}
+
+@media screen and (max-width: 812px) {
+    
+}
+@media screen and (max-width: 768px) {
+    .header__info {
+        padding-top: 75px;
+        padding-bottom: 140px;
+        background-size: contain;
+    }
+    .header__info h1 {
+        font-size: 33px;
+    }
+
+    .header__info h3 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .table-head {
+        margin-top: -40px;
+    }
+    .section-2 {
+        margin-top: 60px;
+    }
+    .circle__number {
+        top: 5px;
+        left: 15px;
+    }
+
+    .section-3__header {
+        margin-top: 60px;
+        font-size: 38px;
+    }
+
+    .section-3__item h3 {
+        font-size: 20px;
+    }
+    .section-3__item p {
+        font-size: 15px;
+    }
+    .section-4__col-2 {
+        display: none;
+    }
+    .section-4__col-3 {
+        min-width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section-4__col-1 h2 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .section-4__col-1 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .section-4__bg-shadow h2 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+
+    .section-5__header {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .section-4 {
+        margin-top: 60px;
+    }
+    .section-4__bg-shadow {
+        margin-bottom: 60px;
+    }
+
+}
+
+@media screen and (max-width: 736px) {
+    
+}
+
+@media screen and (max-width: 414px) {
+
+    .header__info {
+        padding-top: 15px;
+        padding-bottom: 35px;
+        background-size: contain;
+    }
+
+    br {
+        display: none;
+    }
+
+    .header__info h1 {
+        font-size: 18px;
+    }
+    .header__info h3 {
+        font-size: 14px;
+        line-height: 16px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .header__info button span {
+        font-size: 12px;
+    }
+    .header__info button {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .header__info p {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .header__info button span {
+        padding-top: 0px;
+    }
+    .table-text {
+        font-size: 10px;
+    }
+    .table-head {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-top: -10px;
+    }
+    .bg-white,
+    .bg-gray {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .section-2__circle {
+        min-width: 100%;
+    }
+
+    .circle__number {
+        left: 95px;
+    }
+    .section-2 {
+        margin-top: 40px;
+    }
+
+    .section-3__header {
+        margin-top: 30px;
+        font-size: 27px;
+        line-height: 40px;
+    }
+
+    .section-3__item {
+        min-width: 100%;
+        align-items: center;
+    }
+    .section-4 {
+        margin-top: 60px;
+    }
+    .section-4__col-1 h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .section-4__col-1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .section-4__col-3 h3 {
+        margin-bottom: 10px;
+    }
+
+    .section-4__col-3__header {
+         margin-top: 10px;
+    }
+
+    .section-4__col-1 p {
+        font-size: 15px;
+    }
+    .section-4__bg-shadow h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .section-4__bg-shadow a p {
+        font-size: 20px;
+    }
+    .section-5__header {
+        font-size: 22px;
+        line-height: 39px;
+    }
+    .section-5__text {
+        font-size: 17px;
+        margin-top: 25px;
+        margin-bottom: 30px;
+    }
+
+    .section-5__btns {
+        flex-direction: column;
+    }
+    .footer__info {
+        min-width: 100%;
+        align-items: flex-start;
+    }
+    .footer {
+        margin-top: 60px;
+    }
+    .form {
+        width: 366px;
+        height: 428px;
+    }
+    .form h4 {
+        font-size: 22px;
+        line-height: 25px;
+        padding-bottom: 6px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .header__info {
+        padding-top: 5px;
+    }
+    .table-text {
+        font-size: 8px;
+    }
+    .circle__number {
+        left: 75px;
+        top: 2px;
+    }
+
+    .section-3__header {
+        font-size: 21px;
+    }
+    .section-3__item h3 {
+        font-size: 16px;
+    }
+    .section-3__item p {
+        font-size: 14px;
+    }
+    .section-4__bg-shadow h2 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+    .section-4__bg-shadow {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        margin-bottom: 60px;
+    }
+    .section-5__header {
+        font-size: 18px;
+        line-height: 39px;
+    }
+    .form {
+        width: 324px;
+        height: 428px;
+    }
+    .form__input,
+    .form__button {
+        width: 330px;
+        height: 60px;
+    }
+ 
+  
+
+}
+
+@media screen and (max-width: 320px) {
+    .header__info h1 {
+        font-size: 15px;
+        margin-bottom: 0;
+        line-height: 44px;
+    }
+    .header__info h3 {
+        font-size: 12px;
+    }
+
+    .circle__number {
+        left: 49px;
+        top: 0px;
+    }
+
+    .section-2 {
+        margin-top: 20px;
+    }
+
+    .section-3__button button {
+        margin-top: 20px;
+    }
+
+    .section-4__col-3 p {
+        font-size: 14px;
+    }
+    .section-4__bg-shadow h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .section-4__bg-shadow a p {
+        font-size: 18px;
+    }
+    .section-5__header {
+        font-size: 16px;
+        line-height: 39px;
+    }
+    .section-5__text {
+        font-size: 13px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .btn-consult,
+    .btn-extension {
+        font-size: 14px;
+    }
+    .footer__rights,
+    .footer__politics,
+    .footer__text {
+        font-size: 12px;
+    }
+    .line {
+        margin-top: 0px;
+    }
+
+    .form {
+        width: 270px;
+        height: 360px;
+    }
+    .form__input, .form__button {
+        width: 280px;
+        height: 60px;
+    }
+
+}
